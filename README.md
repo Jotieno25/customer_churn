@@ -29,7 +29,8 @@ This project predicts customer churn based on various demographic and service-re
 - Scikit-Learn
 
 ## 📈 Sample Visualization
-![Sample Graph](images/sample.png)
+![Distrubution churb](https://github.com/user-attachments/assets/7af24838-af30-4cef-9a2e-b97c5e6320a8)
+![month](https://github.com/user-attachments/assets/3cfe06ab-49af-49ac-bb54-08aa52e00ba2)
 
 
 
